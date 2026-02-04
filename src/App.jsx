@@ -33,7 +33,7 @@ const EVENTS_DATA = [
     venue: "Sports Area, E-Block",
     details: "Mental strategy and focused rapid play.",
     image: "https://images.unsplash.com/photo-1529699211952-734e80c4d42b?auto=format&fit=crop&q=80&w=800",
-    link: "https://docs.google.com/forms/d/e/1FAIpQLSdYSYRGMQ_toniUfEQ1JEZidyaOSDyZtlU-L7ZA9CMHesTuQA/viewform?usp=dialog",
+    link: "https://docs.google.com/forms/d/e/1FAIpQLSeFO0QEgIwEoDN6OEzTXOIzyx_O_3QUUdldd04Na61AW5rMQQ/viewform?usp=publish-editor",
   },
   {
     id: 3,
@@ -42,7 +42,7 @@ const EVENTS_DATA = [
     venue: "Sports Area, E-Block",
     details: "Classic indoor precision sport.",
     image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrG2E5rCYGfK3WxEVf_E10XGc5ZkLZBEBTM3VjVNGy&s",
-    link: "https://docs.google.com/forms/d/e/1FAIpQLSdYSYRGMQ_toniUfEQ1JEZidyaOSDyZtlU-L7ZA9CMHesTuQA/viewform?usp=dialog",
+    link: "https://docs.google.com/forms/d/e/1FAIpQLSexRZhlzzGBIMrEzT_jjZlzCbQJ68ItZzcpDKcySnW2GmgIDg/viewform?usp=publish-editor",
   },
   {
     id: 4,
@@ -51,7 +51,7 @@ const EVENTS_DATA = [
     venue: "Volleyball Ground near E-Block",
     details: "Team coordination and net dominance.",
     image: "https://images.unsplash.com/photo-1612872087720-bb876e2e67d1?auto=format&fit=crop&q=80&w=800",
-    link: "https://docs.google.com/forms/d/e/1FAIpQLSdYSYRGMQ_toniUfEQ1JEZidyaOSDyZtlU-L7ZA9CMHesTuQA/viewform?usp=dialog",
+    link: "https://docs.google.com/forms/d/e/1FAIpQLSdsqH5S2e-7USyk4B8it7KjOxS169EwhIj_cP_Tlcwohl9jKQ/viewform?usp=dialog",
   },
   {
     id: 5,
@@ -60,7 +60,7 @@ const EVENTS_DATA = [
     venue: "GTU Ground",
     details: "Explosive speed test.",
     image: "https://media.istockphoto.com/id/1169738885/photo/athlete-woman-preparing-and-runs-hurdles-for-track-and-field.jpg?s=612x612&w=0&k=20&c=UlRMJZ7J5NGHpeYnyOr5VNhWgdgFTDzGGF7GRC8Maw0=",
-    link: "https://docs.google.com/forms/d/e/1FAIpQLSdYSYRGMQ_toniUfEQ1JEZidyaOSDyZtlU-L7ZA9CMHesTuQA/viewform?usp=dialog",
+    link: "https://docs.google.com/forms/d/e/1FAIpQLSch2kvCrICo_jXHyyav2u88brutOGCEclB-4ZqIjpr7gRQkHg/viewform?usp=publish-editor",
   },
   {
     id: 6,
@@ -69,7 +69,7 @@ const EVENTS_DATA = [
     venue: "GTU Ground",
     details: "Synchronization and baton passing.",
     image: "https://t4.ftcdn.net/jpg/03/04/60/19/360_F_304601962_RkROHk9D5r6EDdVLO2NCh9zirmiVcyAu.jpg",
-    link: "https://docs.google.com/forms/d/e/1FAIpQLSdYSYRGMQ_toniUfEQ1JEZidyaOSDyZtlU-L7ZA9CMHesTuQA/viewform?usp=dialog",
+    link: "https://docs.google.com/forms/d/e/1FAIpQLSch2kvCrICo_jXHyyav2u88brutOGCEclB-4ZqIjpr7gRQkHg/viewform?usp=publish-editor",
   },
   {
     id: 7,
@@ -78,7 +78,7 @@ const EVENTS_DATA = [
     venue: "GTU Ground",
     details: "The ultimate team sport battle.",
     image: "https://images.unsplash.com/photo-1531415074968-036ba1b575da?auto=format&fit=crop&q=80&w=800",
-    link: "https://docs.google.com/forms/d/e/1FAIpQLSdYSYRGMQ_toniUfEQ1JEZidyaOSDyZtlU-L7ZA9CMHesTuQA/viewform?usp=dialog"
+    link: "https://docs.google.com/forms/d/e/1FAIpQLSfw10A6QO8DDjoBYDRnSagTt6aK4YCZy-uPdEDJlut89O8jmA/viewform?usp=publish-editor"
   }
 ];
 
