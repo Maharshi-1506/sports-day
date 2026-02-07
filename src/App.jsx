@@ -99,7 +99,7 @@ const PROTOCOL_DATA = [
   { id: "04", text: "Maintain highest sportsmanship." },
   { id: "05", text: "Referee's decision is final." },
   { id: "06", text: "Full team attendance mandatory." },
-  { id: "07", text: "Exclusive to DS & CE Students." }
+  { id: "07", text: "Exclusive to CSE(Data Science) and Computer Engineering students." }
 ];
 
 // --- 🧩 COMPONENTS ---
@@ -196,7 +196,7 @@ export default function App() {
             <div className="bg-funky-pink border-2 border-black p-2 rounded-lg shadow-brutal">
               <Flame className="text-white fill-white" size={24} />
             </div>
-            <span className="text-2xl font-black italic tracking-tighter uppercase font-heading text-outline-black drop-shadow-[2px_2px_0_#000] text-white">
+            <span className="text-2xl font-black italic tracking-tighter uppercase font-heading text-outline-black -shadow-[1px_px_0_#000] text-white">
               BattleBuzz
             </span>
           </div>
@@ -265,18 +265,18 @@ export default function App() {
           <motion.div
             initial={{ scale: 0 }}
             animate={{ scale: 1 }}
-            className="inline-block bg-white border-[3px] border-black px-6 py-2 rounded-xl font-black uppercase tracking-widest mb-8 shadow-brutal -rotate-3"
+            className="inline-block bg-white border-[3px] border-black px-6 py-2 rounded-xl font-black tracking-widest mb-8 shadow-brutal -rotate-3"
           >
-            VGEC Sports Fest 2026
+            CSE (Data Science) and Computer Engineering Department Presents
           </motion.div>
 
           <h1 className="text-5xl md:text-[8rem] font-black leading-[0.9] text-funky-pink drop-shadow-[3px_3px_0_#000] md:drop-shadow-[4px_4px_0_#000] font-heading mb-6 -skew-x-6">
             BATTLE<br />
-            <span className="text-funky-yellow text-outline-black">BUZZ</span>
+            <span className="text-funky-yellow ">BUZZ</span>
           </h1>
 
           <p className="text-2xl font-bold bg-white inline-block px-4 py-2 border-2 border-black shadow-brutal rotate-1">
-            Data Science <span className="text-funky-pink">VS</span> Computer Engineering
+            Registration <span className="text-funky-pink">Open</span> !!!
           </p>
 
           <Countdown />
@@ -359,13 +359,13 @@ export default function App() {
               </div>
 
               <p className="text-lg font-bold text-gray-700 leading-relaxed mb-10 max-w-md">
-                Organized by <span className="bg-funky-cyan px-1 border-2 border-black rounded shadow-[2px_2px_0_#000]">Computer Science Engineering (Data Science)</span> and <span className="bg-funky-pink px-1 border-2 border-black rounded shadow-[2px_2px_0_#000]">Computer Engineering Department</span>.
+                Organized by <span className="bg-funky-cyan px-1 border-2 border-black rounded shadow-[2px_2px_0_#000]">Computer Science & Engineering(Data Science )</span> and <span className="bg-funky-pink px-1 border-2 border-black rounded shadow-[2px_2px_0_#000]">Computer Engineering Department</span>.
               </p>
 
               <div className="space-y-4">
                 <h3 className="font-black uppercase tracking-widest text-sm border-b-2 border-dashed border-black pb-2 inline-block">Venue Details</h3>
                 <a
-                  href="https://maps.google.com"
+                  href="https://maps.app.goo.gl/SJSqPM5m1WBsCGcU7"
                   target="_blank"
                   className="flex items-center gap-3 group hover:translate-x-2 transition-transform cursor-pointer"
                 >
@@ -438,9 +438,9 @@ export default function App() {
 
         </div>
 
-        <div className="mt-20 pt-8 border-t-[3px] border-black border-dashed flex flex-col md:flex-row justify-between items-center gap-4 text-xs font-black uppercase tracking-[0.2em] opacity-60">
-          <p>© 2026 Battle Buzz • Data Science & CE • VGEC</p>
-          <p>Made with ⚡ and ☕</p>
+        <div className="mt-20 pt-8 border-t-[3px] border-black border-dashed flex flex-col md:flex-row justify-between items-center gap-4 text-xs font-black tracking-[0.2em] opacity-60">
+          <p>© 2026 Battle Buzz • VGEC</p>
+          <p>Made by CSE(Data Science) and Computer Engineering</p>
         </div>
       </footer>
     </div>
